@@ -1,6 +1,6 @@
 # Deep Learning Coursework Lab
 
-This report contains all the labs for my Deep Learning coursework.
+This repository contains all the labs for my Deep Learning coursework.
 
 It covers 9 labs in total:
 1. Multi-class gradient  
